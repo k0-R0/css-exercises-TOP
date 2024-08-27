@@ -1,0 +1,11 @@
+.button{
+    font-family: Helvetica, 'Times New Roman', serif;
+    font-size: 28px;
+}
+.ele-1{
+    background-color: black;
+    color: white;
+}
+.ele-2{
+    background-color: yellow;
+}
